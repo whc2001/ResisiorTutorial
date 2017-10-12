@@ -1,0 +1,11 @@
+c:\users\whc\documents\visual studio 2017\Projects\ResisiorTutorial\ResisiorTutorial\bin\Debug\ResisiorTutorial.exe
+c:\users\whc\documents\visual studio 2017\Projects\ResisiorTutorial\ResisiorTutorial\bin\Debug\ResisiorTutorial.pdb
+c:\users\whc\documents\visual studio 2017\Projects\ResisiorTutorial\ResisiorTutorial\obj\Debug\ResisiorTutorial.frmStart.resources
+c:\users\whc\documents\visual studio 2017\Projects\ResisiorTutorial\ResisiorTutorial\obj\Debug\ResisiorTutorial.frmValueToColor.resources
+c:\users\whc\documents\visual studio 2017\Projects\ResisiorTutorial\ResisiorTutorial\obj\Debug\ResisiorTutorial.Properties.Resources.resources
+c:\users\whc\documents\visual studio 2017\Projects\ResisiorTutorial\ResisiorTutorial\obj\Debug\ResisiorTutorial.csproj.GenerateResource.Cache
+c:\users\whc\documents\visual studio 2017\Projects\ResisiorTutorial\ResisiorTutorial\obj\Debug\ResisiorTutorial.exe
+c:\users\whc\documents\visual studio 2017\Projects\ResisiorTutorial\ResisiorTutorial\obj\Debug\ResisiorTutorial.pdb
+c:\users\whc\documents\visual studio 2017\Projects\ResisiorTutorial\ResisiorTutorial\obj\Debug\ResisiorTutorial.frmColorToValue.resources
+c:\users\whc\documents\visual studio 2017\Projects\ResisiorTutorial\ResisiorTutorial\obj\Debug\ResisiorTutorial.ResistorImage.resources
+c:\users\whc\documents\visual studio 2017\Projects\ResisiorTutorial\ResisiorTutorial\obj\Debug\ResisiorTutorial.ResistorKeypad.resources
